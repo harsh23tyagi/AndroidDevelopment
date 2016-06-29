@@ -1,7 +1,7 @@
 # AndroidDevelopment
 This repository contains minor android project that i feel people often look for and the layouts made by me will easily be molded according to the developer's choice.
  
- ## Concepts Used
+# Concepts Used:
  1. CardView inflated in holding the edittexts for username and password
  2. The main activity holds the card view and the logo
  3. Gradient.xml is created for the background gradient
